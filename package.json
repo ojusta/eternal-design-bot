@@ -1,0 +1,13 @@
+{
+  "name": "eternal-design-bot",
+  "version": "1.0.0",
+  "description": "Um bot de discord para ranking de usuários da Organização Eternal Design",
+  "main": "main.js",
+  "author": "Justa",
+  "license": "ISC",
+  "devDependencies": {
+    "canvas": "^2.11.2",
+    "eris": "^0.17.2",
+    "fs": "^0.0.1-security"
+  }
+}

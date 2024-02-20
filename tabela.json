@@ -1,0 +1,51 @@
+{
+  "membros": [
+    {
+      "226517447937622016": {
+        "nome": "User1",
+        "id": "12345678901",
+        "ranking": 1,
+        "pontos": 40,
+        "contests": {
+          "ouro": 1,
+          "prata": 0,
+          "bronze": 0,
+          "participacoes": 1
+        },
+        "overall": {
+          "preenchimento": "A",
+          "colorCorrection": "B+",
+          "customText": "B+",
+          "paletaCores": "B+",
+          "consistencia": "B-",
+          "tecnica": "B"
+        }
+      }
+    },
+    {
+      "732764072533295144": {
+        "nome": "User2",
+        "id": "12345678902",
+        "ranking": 2,
+        "pontos": 30,
+        "contests": {
+          "ouro": 0,
+          "prata": 1,
+          "bronze": 0,
+          "participacoes": 4
+        },
+        "overall": {
+          "preenchimento": "S",
+          "colorCorrection": "S",
+          "customText": "S",
+          "paletaCores": "S",
+          "consistencia": "SS",
+          "tecnica": "S"
+        }
+      }
+    }
+  ],
+  "canalranking": {
+    "id": "canalRanking"
+  }
+}
